@@ -1,1 +1,2 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
+This repository contains two earthquake maps with three different map style options and a tectonic plate overlay. I have also added the earthquake data in relation to the tectonic plates’ location on Earth. All earthquakes with a magnitude greater than 4.5 are displayed on the map in a pink color range. There is also an option to toggle the map style and earthquake data to fit your needs. 
